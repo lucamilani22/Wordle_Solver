@@ -34,3 +34,6 @@ Run multiple games with:
 
 ## Credits 
 Assignment developed as part of coursework in the Natural Language Processing course at Bocconi University, academic year 2024-2025.
+
+## Questions & Queries
+If you have any questions, thoughts, or comments on this project, please contact me: luca.milani2@studbocconi.it
